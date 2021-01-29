@@ -23,12 +23,13 @@ Hours Taken: 15 hrs
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/35587848/106337696-71737180-6257-11eb-8059-79a2440974bd.gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+
 
 ### Notes
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app
+The app did not run in emulator and had to run it in a real physical device.
 
 ### Open-source libraries used
 
